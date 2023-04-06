@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+#SectionOne {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.divMenor {
+    padding: 15px;
+    width: 160px;
+    background-color: gray;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+    align-content: space-evenly;
+}
+
+.divMajor {
+    display: flex;
+    flex-wrap: wrap;
+
+}
